@@ -1,2 +1,2 @@
 # Heatmap-Data 
-Data for heatmap tool - should be in .tsv format
+Data for heatmap tool - should be in .csv log2 format
